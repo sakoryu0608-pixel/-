@@ -1,0 +1,5 @@
+{
+  "name": "AudioFlow to Draw.io",
+  "description": "MTGの音声ファイルから業務フローを自動生成し、Draw.io形式(.drawio)で出力するAIツール",
+  "requestFramePermissions": []
+}
